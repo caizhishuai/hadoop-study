@@ -1,4 +1,4 @@
-账号密码
+##账号密码
 ···shell
 安装 https://www.cloudera.com/documentation/enterprise/latest/topics/installation_installation.html
 cloudera
